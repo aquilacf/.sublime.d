@@ -10,7 +10,8 @@
 		"Emacs Pro Essentials",
 		"GitGutter",
 		"Package Control",
-		"SideBarEnhancements",
-		"SyncedSideBar"
+		"SideBarTools",
+		"SyncedSideBar",
+		"Terminus"
 	]
 }
