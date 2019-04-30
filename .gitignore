@@ -2,7 +2,7 @@
 *
 
 # Except
-!*.sublime-settings
+!*.sublime-*
 
 # Ignore history
 sublemacspro_isearch_history.sublime-settings
