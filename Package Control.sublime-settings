@@ -13,6 +13,8 @@
 		"Package Control",
 		"PHP Companion",
 		"SideBarTools",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Terminus"
 	]
