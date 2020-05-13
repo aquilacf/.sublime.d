@@ -1,0 +1,14 @@
+{
+	"log_debug": true,
+
+  "clients": {
+    "terraform": {
+      "command": ["terraform-ls", "serve", "-tf-log-file", "/tmp/terraform-lp.log"],
+      "enabled": true,
+      "languageId": "terraform",
+      "scopes": ["source.terraform"],
+      "syntaxes": ["Packages/Terraform/Terraform.sublime-syntax"]
+    }
+  }
+
+}

@@ -6,16 +6,23 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"DoxyDoxygen",
 		"EditorConfig",
 		"Emacs Pro Essentials",
+		"Fix Mac Path",
 		"GitGutter",
+		"GraphQL",
+		"iOpener",
+		"LSP",
+		"LSP-bash",
+		"LSP-json",
+		"LSP-serenata",
+		"LSP-yaml",
+		"Open in Default Application",
+		"orgmode",
 		"Package Control",
-		"PHP Companion",
 		"SideBarTools",
-		"SublimeLinter",
-		"SublimeLinter-php",
 		"SyncedSideBar",
-		"Terminus"
+		"Terraform",
+		"TypeScript"
 	]
 }

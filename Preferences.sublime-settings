@@ -1,8 +1,20 @@
 {
+	"additional_path_items":
+	[
+		"/usr/local/opt",
+		"/usr/local/opt/node@12/bin"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"node_modules/**"
+	],
 	"save_on_focus_lost": true,
+	"show_git_status": false,
+	"theme": "Adaptive.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
